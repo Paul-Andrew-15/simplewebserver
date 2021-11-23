@@ -75,12 +75,12 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
-## Client side output:
-![Output 1](./images/output1.png)
-
 ## Server side output:
-![Output 2](./images/output2.png)
-![Output 3](./images/output3.png)
+![output 1](./images/output1.png)
+
+## Client side output:
+![output 2](./images/output2.png)
+![output 3](./images/output3.png)
 
 ## RESULT:
 The webserver for top 5 programming languages is obtained.
